@@ -53,3 +53,6 @@ int main(){
     if(binarysearch(input,0,size-1,wantednum)){cout<<"the number is found";}
     else{cout<< "number is not found";}
 }
+// First you have to manually input the numbers
+//input -1 to finish inputing
+// and then input the number you want to search.
